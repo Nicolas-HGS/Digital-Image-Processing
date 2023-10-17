@@ -58,7 +58,7 @@ Below are the names of the topics covered by this repository:
 
 </ul>
 
-Codes are currently still being added to the repository.
+<p>Codes are currently still being added to the repository.</p>
 
 email: nh947760@gmail.com
 
