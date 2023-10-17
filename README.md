@@ -6,6 +6,8 @@ This repository contains the codes made for the subject Introduction to Digital 
 
 Below are the names of the topics covered by this repository:
 
+<ul>
+
 <li>Importating, writing and illustrating images in Python;</li>
 
 <li>Creating images through the matrix manipulation in Python;</li>
@@ -54,6 +56,7 @@ Below are the names of the topics covered by this repository:
 
 <li>Region-based segmentation.</li>
 
+</ul>
 
 Codes are currently still being added to the repository.
 
